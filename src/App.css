@@ -1,0 +1,227 @@
+
+
+.header1 {
+  text-align: center;
+  font-family:monospace;
+  font-size: 50px;
+}
+
+.footer1{
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 15px;
+  color: lightcyan;
+}
+
+.App {
+  color: white;
+}
+
+body {
+  background-image: url(/src/Black_Box.jpg);
+}
+
+.centriraj {
+  text-align: center;
+  display: block;
+  align-items: center;
+  margin: auto;
+  height: 700px;
+  z-index: 0;
+}
+
+.sunce1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: -29%;
+  margin-left: 15%;
+  font-size: 20px;
+}
+
+
+.merkur1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: -3%;
+  margin-left: 38%;
+  font-size: 20px;
+}
+
+.venera1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: -3%;
+  margin-left: 59%;
+  font-size: 20px;
+}
+
+.zemlja1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: -3%;
+  margin-left: 80%;
+  font-size: 20px;  
+}
+
+.mjesec1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 20%;
+  margin-left: 15%;
+  font-size: 20px;
+}
+
+.mars1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: -3%;
+  margin-left: 38%;
+  font-size: 20px;
+}
+
+.jupiter1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: -3%;
+  margin-left: 59%;
+  font-size: 20px;
+}
+
+.saturn1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: -3%;
+  margin-left: 80%;
+  font-size: 20px;
+}
+
+.link1{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+}
+
+.div1{
+  text-align: center;
+  display: block;
+  align-items: center;
+  margin: auto;
+  width: 900px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 16px;
+}
+
+.slika1{
+  width: 300px;
+  float:left;
+  
+}
+
+
+.h3s{
+  color:red;
+  text-align: center;
+}
+
+.h3merkur{
+  color:lightgrey;
+  text-align: center;
+}
+
+.h3v{
+  color:orange;
+  text-align: center;
+}
+
+.h3z{
+  color:lightskyblue;
+  text-align: center;
+}
+
+.h3mjesec{
+  color: gray;
+  text-align: center;
+}
+
+.h3mars{
+  color:lightcoral;
+  text-align: center;
+}
+
+.h3j{
+  color:lightsalmon;
+  text-align: center;
+}
+
+.h3saturn{
+  color: darkkhaki;
+  text-align: center;
+}
+
+.hsunce{
+  font-family:monospace;
+  font-size: 50px;
+  text-align: center;
+  color:red;
+}
+
+.hmerkur{
+  font-family: monospace;
+  font-size: 50px;
+  text-align: center;
+  color:lightgrey;
+}
+
+.hvenera {
+  font-family: monospace;
+  font-size: 50px;
+  text-align: center;
+  color:orange;
+}
+
+.hzemlja {
+  font-family: monospace;
+  font-size: 50px;
+  text-align: center;
+  color: lightskyblue;
+}
+
+.hmjesec {
+  font-family: monospace;
+  font-size: 50px;
+  text-align: center;
+  color:grey;
+}
+
+.hmars {
+  font-family: monospace;
+  font-size: 50px;
+  text-align: center;
+  color: lightcoral;
+}
+
+.prezime{
+  height: 15px;
+  width: 150px;
+  resize:none;
+}
+
+.tekst{
+  height: 150px;
+  width: 500px;
+  resize: none;
+}
+
+.hjupiter {
+  font-family: monospace;
+  font-size: 50px;
+  text-align:center;
+  color:lightsalmon;
+}
+
+.hsaturn {
+  font-family: monospace;
+  font-size: 50px;
+  text-align: center;
+  color: darkkhaki;
+}
+
+.link10 {
+  color: white;
+}
+
+.link10:hover {
+  color:cadetblue;
+}
